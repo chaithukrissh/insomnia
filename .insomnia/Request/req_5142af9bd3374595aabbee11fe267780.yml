@@ -1,0 +1,31 @@
+_id: req_5142af9bd3374595aabbee11fe267780
+type: Request
+parentId: wrk_42093f0a9746478490e01e0e1760de43
+modified: 1677398159300
+created: 1676908472430
+url: "{{url}}/store/items"
+name: post store request
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |+
+    
+    {
+    	"data" : "hi this is data"
+    }
+
+
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1676908472430
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

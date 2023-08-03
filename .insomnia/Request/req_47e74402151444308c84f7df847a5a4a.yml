@@ -1,0 +1,28 @@
+_id: req_47e74402151444308c84f7df847a5a4a
+type: Request
+parentId: wrk_42093f0a9746478490e01e0e1760de43
+modified: 1679049320554
+created: 1679048947380
+url: http://127.0.0.1:5000
+name: New Request
+description: ""
+method: GET
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"age" : 21
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1679048947380
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

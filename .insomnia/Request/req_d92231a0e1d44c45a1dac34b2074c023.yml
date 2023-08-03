@@ -1,0 +1,41 @@
+_id: req_d92231a0e1d44c45a1dac34b2074c023
+type: Request
+parentId: wrk_42093f0a9746478490e01e0e1760de43
+modified: 1677257586179
+created: 1676910452698
+url: http://127.0.0.1:5000/store
+name: New Request
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"name": "mystore",
+    	"age": 21,
+    	"key": 201,
+    	"number": [
+    		1,
+    		2,
+    		3,
+    		4
+
+    	]
+    }
+parameters:
+  - id: pair_0b26ce4ee1654782a89bac6e3b9347ab
+    name: name
+    value: "13"
+    description: ""
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1676910452698
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,14 @@
+_id: env_6926839613c9420d88fc4d67c326e204
+type: Environment
+parentId: env_948fc44162c2b04a0c95b896ba8d5954a45af2e1
+modified: 1677397036983
+created: 1676910405354
+name: New Environment
+data:
+  url: http://127.0.0.1:5000
+dataPropertyOrder:
+  "&":
+    - url
+color: null
+isPrivate: false
+metaSortKey: 1676910405354

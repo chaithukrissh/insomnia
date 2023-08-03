@@ -1,0 +1,25 @@
+_id: req_286942517c6b4bc4a60fb3e0773ee55a
+type: Request
+parentId: wrk_42093f0a9746478490e01e0e1760de43
+modified: 1677398596402
+created: 1676907317263
+url: "{{url}}"
+name: get store request
+description: ""
+method: GET
+body:
+  mimeType: application/json
+  text: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1676907317263
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

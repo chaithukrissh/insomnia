@@ -1,0 +1,25 @@
+_id: req_c41e51265c564f56abea393f27a7b644
+type: Request
+parentId: wrk_42093f0a9746478490e01e0e1760de43
+modified: 1691043783464
+created: 1691040549308
+url: http://127.0.0.1:5000
+name: New Request
+description: ""
+method: GET
+body:
+  mimeType: application/json
+  text: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1691040549308
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
